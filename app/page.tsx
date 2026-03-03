@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen w-full flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start"></main>
+    <main className="flex min-h-screen w-full flex-col items-center justify-between bg-white px-16 py-32 sm:items-start dark:bg-black"></main>
   );
 }
